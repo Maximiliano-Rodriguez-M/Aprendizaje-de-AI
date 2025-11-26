@@ -1,23 +1,23 @@
 # Aprendizaje-de-AI
 aprendizaje de inteligencia artificial
 
-MULTICAPA(MLP)
+RED MULTICAPA(MLP)
 
 Se realizaron redes multicapas de Clasificacion y Regrescion con datos(estructurados)
 
 Clasifiacion:
 
-flor del iris
+Flor del iris
 
-candidato a un empleo
+Candidato a un empleo
 
 Prediccion:
 
-eficiencia del combustible
+Eficiencia del combustible
 
-popularidad de una cancion
+Popularidad de una cancion
 
-CNN convulcionales 
+Red Convulcional (CNN) 
 
 Se realizaron dos convulcionales con datos (tensores) para realizar estos ejemplos 
 
@@ -25,7 +25,7 @@ Clasificacion de digitos
 
 Clasificacion de ropa
 
-RNN Recurrentes
+Red Recurrente (RNN)
 
 Se realizaron dos recurrentes con datos secuenciales para realizar estos ejemplos
 
