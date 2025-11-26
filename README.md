@@ -25,7 +25,7 @@ Clasificacion de digitos
 
 Clasificacion de ropa
 
-##RNN Recurrentes
+RNN Recurrentes
 
 Se realizaron dos recurrentes con datos secuenciales para realizar estos ejemplos
 
