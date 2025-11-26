@@ -3,7 +3,7 @@ aprendizaje de inteligencia artificial
 
 RED MULTICAPA(MLP)
 
-Se realizaron redes multicapas de Clasificacion y Regrescion con datos(estructurados)
+Se realizaron redes multicapas de Clasificacion y Regrescion con datos(estructurados) realizando estos ejemplos
 
 Clasifiacion:
 
